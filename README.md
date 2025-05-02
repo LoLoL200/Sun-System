@@ -8,4 +8,5 @@ git clone https://github.com/LoLoL200/Sun-System.git
 ```
 ___
 Photo app:
+___
 <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="App Screenshot" width="400"/>
