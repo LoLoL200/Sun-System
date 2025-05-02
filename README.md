@@ -1,3 +1,5 @@
-# sun_system
 
-A new Flutter project.
+**Sun system**- this is a simple application that tells about the solar system and shows a short description of each planet.
+
+**clone git:**
+ git clone https://github.com/LoLoL200/Sun-System.git
