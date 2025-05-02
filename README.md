@@ -16,6 +16,8 @@ git clone https://github.com/LoLoL200/Sun-System.git
 ___
 Photo app:
 ___
-<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="App Screenshot" height="200" width="300"/>
-<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_02.png" alt="App Screenshot" width="300"/>
-<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_03.png" alt="App Screenshot" width="300"/>
+<p align="center">
+  <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_02.png" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_03.png" alt="Screenshot 3" width="200"/>
+</p>
