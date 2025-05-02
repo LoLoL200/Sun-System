@@ -10,3 +10,5 @@ ___
 Photo app:
 ___
 <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="App Screenshot" width="400"/>
+<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_02.png" alt="App Screenshot" width="400"/>
+<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_03.png" alt="App Screenshot" width="400"/>
