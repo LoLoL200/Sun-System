@@ -14,7 +14,7 @@ Clone the repository to your device
 git clone https://github.com/LoLoL200/Sun-System.git
 ```
 ___
-             Photo app:
+<h align="center">             Photo app: </h>
 ___
 <p align="center">
   <img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="Screenshot 1" width="200"/>
