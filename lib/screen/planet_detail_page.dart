@@ -13,7 +13,7 @@ class PlanetDetailPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text(name), backgroundColor: Colors.deepPurple),
+      appBar: AppBar(title: Text(name), backgroundColor: Colors.amber),
       backgroundColor: Colors.black87,
       body: Center(
         child: Column(
