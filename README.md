@@ -8,4 +8,4 @@ git clone https://github.com/LoLoL200/Sun-System.git
 ```
 ___
 Photo app:
-![Photo](https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png)
+<img src="https://github.com/LoLoL200/Sun-System/blob/main/flutter_01.png" alt="App Screenshot" width="400"/>
